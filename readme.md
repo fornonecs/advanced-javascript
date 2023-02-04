@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Advanced JavaScript Series</h1>
   <img height="100" src="https://img.icons8.com/color/344/javascript.png">
+  
 <span>Pull Requests, code improvements, are welcomed</span>
 
 to reach out to me! <br />
